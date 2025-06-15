@@ -1,0 +1,1 @@
+该文件夹是用来测试boot.asm与loader.asm，后来决定使用grub引导kernel，故该文件夹不再使用。
